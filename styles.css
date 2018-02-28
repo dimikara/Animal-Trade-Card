@@ -1,0 +1,51 @@
+body {
+	font-family: Times, Verdana, Helvetica, sans-serif;
+}
+
+h3 {
+    padding: 10px;
+}
+
+.whole-card {
+    width: 320px;
+    border: 1px solid lightgray;
+    box-shadow: 9px 7px 7px lightgray;
+    border-radius: 25px;
+    background-color: #e6f7ff;
+}
+
+img {
+	  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+#fact {
+    font-style: oblique;
+    font-size: 16px;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.text-part {
+    display: block;
+    margin: 10px auto 10px auto;
+    width: 288px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    font-size:  16px;
+    line-height: 140%;
+}
+
+p {
+	padding: 5px;
+}
