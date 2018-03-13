@@ -2,4 +2,4 @@
 Udacity Nanodegree - Project 1 - Animal Trade Card
 <br>
 
-<a href='https://codepen.io/dimitraK/pen/rprEzy'>Animal Trade Card</a> in Codepen.
+<a href='https://codepen.io/dimitraK/full/rprEzy/' target="_blank">Animal Trade Card</a> in Codepen.
