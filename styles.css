@@ -1,10 +1,12 @@
 body{
-	font-family: Times, Verdana, Helvetica, sans-serif;
+    font-family: Times, Verdana, Helvetica, sans-serif;
 }
+
 
 h3{
     padding: 10px;
 }
+
 
 .whole-card{
     width: 320px;
@@ -14,6 +16,7 @@ h3{
     background-color: #e6f7ff;
 }
 
+
 img{
     display: block;
     margin-left: auto;
@@ -21,19 +24,23 @@ img{
     width: 300px;
 }
 
+
 #fact{
     font-style: oblique;
     font-size: 16px;
 }
 
+
 span{
-	font-weight: bold;
+    font-weight: bold;
 }
+
 
 ul{
     list-style-type: none;
     padding: 5px;
 }
+
 
 .text-part{
     display: block;
@@ -46,6 +53,7 @@ ul{
     line-height: 140%;
 }
 
+
 p{
-	padding: 5px;
+    padding: 5px;
 }
