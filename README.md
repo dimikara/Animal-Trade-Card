@@ -1,5 +1,14 @@
-# nanodegree-project1-animal-trade-card
-Udacity Nanodegree - Project 1 - Animal Trade Card
-<br>
+# Animal Trading Card
 
-<a href='https://codepen.io/dimitraK/full/rprEzy/' target="_blank">Animal Trade Card</a> in Codepen.
+
+An animal trading card with my favourite animal, a Samoyed - Done for Udacity Front-End Nanodegree (2018).
+
+___
+
+* A screenshot of the card
+
+![Screenshot1](/AnimalCardScreenshot.png "The game on PC")
+
+___
+
+You could also see the <a href='https://codepen.io/dimitraK/full/rprEzy/' target="_blank">Animal Trade Card</a> in Codepen.
