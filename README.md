@@ -5,7 +5,7 @@ An animal trading card with my favourite animal, a Samoyed - Done for Udacity Fr
 
 ___
 
-* A screenshot of the card
+## A screenshot of the card
 
 ![Screenshot1](/AnimalCardScreenshot.png "The game on PC")
 
