@@ -11,4 +11,4 @@ ___
 
 ___
 
-You could also see the <a href='https://codepen.io/dimitraK/full/rprEzy/' target="_blank">Animal Trade Card</a> in Codepen.
+You could also see the Animal Trade Card in <a href='https://codepen.io/dimitraK/full/rprEzy/' target="_blank">Codepen</a>.
